@@ -1,6 +1,5 @@
 USE northwind;
 
-SELECT * FROM customers;
 
-SELECT first_name FROM customers
+SELECT CONCAT (first_name 'Lorraine Sontillano') AS loveOfMyLife FROM customers
 WHERE id = 1;
