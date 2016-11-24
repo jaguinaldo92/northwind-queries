@@ -1,0 +1,71 @@
+Tables_in_northwind
+customers
+employee_privileges
+employees
+inventory_transaction_types
+inventory_transactions
+invoices
+order_details
+order_details_status
+orders
+orders_status
+orders_tax_status
+privileges
+products
+purchase_order_details
+purchase_order_status
+purchase_orders
+sales_reports
+shippers
+strings
+suppliers
+COUNT(*)
+29
+COUNT(*)
+9
+COUNT(*)
+35
+COUNT(*)
+48
+COUNT(*)
+45
+COUNT(*)
+3
+COUNT(*)
+10
+COUNT(*)
+5
+COUNT(*)
+4
+COUNT(*)
+58
+COUNT(*)
+55
+company
+Company AA
+numEmployees	numCompanies	city	city
+4	2	Seattle	Seattle
+numEmployees	numCompanies	city	city
+0	2	NULL	Boston
+0	2	NULL	Las Vegas
+0	2	NULL	Milwaukee
+0	2	NULL	Salt Lake City
+0	2	NULL	Chicago
+0	2	NULL	Los Angelas
+0	2	NULL	Minneapolis
+0	1	NULL	San Francisco
+0	2	NULL	Denver
+0	2	NULL	Memphis
+0	2	NULL	New York
+0	1	NULL	Boise
+0	1	NULL	Honolulu
+0	2	NULL	Miami
+0	2	NULL	Portland
+4	2	Seattle	Seattle
+numEmployees	numCompanies	city	city
+1	0	Kirkland	NULL
+1	0	Bellevue	NULL
+3	0	Redmond	NULL
+4	2	Seattle	Seattle
+COUNT(c.id)
+48
